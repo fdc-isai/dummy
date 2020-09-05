@@ -1,0 +1,3161 @@
+{
+    "timezone": [
+        {
+            "id": 521,
+            "city_name": "Etc/GMT+12",
+            "utc_offset": "-12:00",
+            "jp_time_diff": -1260
+        },
+        {
+            "id": 31,
+            "city_name": "Pacific/Pago_Pago",
+            "utc_offset": "-11:00",
+            "jp_time_diff": -1200
+        },
+        {
+            "id": 280,
+            "city_name": "Pacific/Niue",
+            "utc_offset": "-11:00",
+            "jp_time_diff": -1200
+        },
+        {
+            "id": 377,
+            "city_name": "Pacific/Midway",
+            "utc_offset": "-11:00",
+            "jp_time_diff": -1200
+        },
+        {
+            "id": 513,
+            "city_name": "Pacific/Samoa",
+            "utc_offset": "-11:00",
+            "jp_time_diff": -1200
+        },
+        {
+            "id": 519,
+            "city_name": "Etc/GMT+11",
+            "utc_offset": "-11:00",
+            "jp_time_diff": -1200
+        },
+        {
+            "id": 119,
+            "city_name": "Pacific/Rarotonga",
+            "utc_offset": "-10:00",
+            "jp_time_diff": -1140
+        },
+        {
+            "id": 288,
+            "city_name": "Pacific/Tahiti",
+            "utc_offset": "-10:00",
+            "jp_time_diff": -1140
+        },
+        {
+            "id": 407,
+            "city_name": "Pacific/Honolulu",
+            "utc_offset": "-10:00",
+            "jp_time_diff": -1140
+        },
+        {
+            "id": 511,
+            "city_name": "Pacific/Johnston",
+            "utc_offset": "-10:00",
+            "jp_time_diff": -1140
+        },
+        {
+            "id": 287,
+            "city_name": "Pacific/Marquesas",
+            "utc_offset": "-09:30",
+            "jp_time_diff": -1110
+        },
+        {
+            "id": 286,
+            "city_name": "Pacific/Gambier",
+            "utc_offset": "-09:00",
+            "jp_time_diff": -1080
+        },
+        {
+            "id": 379,
+            "city_name": "America/Adak",
+            "utc_offset": "-09:00",
+            "jp_time_diff": -1080
+        },
+        {
+            "id": 442,
+            "city_name": "America/Atka",
+            "utc_offset": "-09:00",
+            "jp_time_diff": -1080
+        },
+        {
+            "id": 522,
+            "city_name": "Etc/GMT+9",
+            "utc_offset": "-09:00",
+            "jp_time_diff": -1080
+        },
+        {
+            "id": 295,
+            "city_name": "Pacific/Pitcairn",
+            "utc_offset": "-08:00",
+            "jp_time_diff": -1020
+        },
+        {
+            "id": 380,
+            "city_name": "America/Anchorage",
+            "utc_offset": "-08:00",
+            "jp_time_diff": -1020
+        },
+        {
+            "id": 393,
+            "city_name": "America/Juneau",
+            "utc_offset": "-08:00",
+            "jp_time_diff": -1020
+        },
+        {
+            "id": 398,
+            "city_name": "America/Metlakatla",
+            "utc_offset": "-08:00",
+            "jp_time_diff": -1020
+        },
+        {
+            "id": 400,
+            "city_name": "America/Nome",
+            "utc_offset": "-08:00",
+            "jp_time_diff": -1020
+        },
+        {
+            "id": 405,
+            "city_name": "America/Sitka",
+            "utc_offset": "-08:00",
+            "jp_time_diff": -1020
+        },
+        {
+            "id": 406,
+            "city_name": "America/Yakutat",
+            "utc_offset": "-08:00",
+            "jp_time_diff": -1020
+        },
+        {
+            "id": 520,
+            "city_name": "Etc/GMT+8",
+            "utc_offset": "-08:00",
+            "jp_time_diff": -1020
+        },
+        {
+            "id": 87,
+            "city_name": "America/Creston",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 88,
+            "city_name": "America/Dawson",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 89,
+            "city_name": "America/Dawson_Creek",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 91,
+            "city_name": "America/Fort_Nelson",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 108,
+            "city_name": "America/Vancouver",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 109,
+            "city_name": "America/Whitehorse",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 259,
+            "city_name": "America/Hermosillo",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 266,
+            "city_name": "America/Tijuana",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 396,
+            "city_name": "America/Los_Angeles",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 404,
+            "city_name": "America/Phoenix",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 444,
+            "city_name": "America/Ensenada",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 452,
+            "city_name": "America/Santa_Isabel",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 491,
+            "city_name": "Canada/Pacific",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 493,
+            "city_name": "Canada/Yukon",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 506,
+            "city_name": "Mexico/BajaNorte",
+            "utc_offset": "-07:00",
+            "jp_time_diff": -960
+        },
+        {
+            "id": 83,
+            "city_name": "America/Belize",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 86,
+            "city_name": "America/Cambridge_Bay",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 90,
+            "city_name": "America/Edmonton",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 95,
+            "city_name": "America/Inuvik",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 102,
+            "city_name": "America/Regina",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 105,
+            "city_name": "America/Swift_Current",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 111,
+            "city_name": "America/Yellowknife",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 122,
+            "city_name": "Pacific/Easter",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 127,
+            "city_name": "America/Costa_Rica",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 143,
+            "city_name": "Pacific/Galapagos",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 178,
+            "city_name": "America/Guatemala",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 183,
+            "city_name": "America/Tegucigalpa",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 258,
+            "city_name": "America/Chihuahua",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 261,
+            "city_name": "America/Mazatlan",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 265,
+            "city_name": "America/Ojinaga",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 275,
+            "city_name": "America/Managua",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 353,
+            "city_name": "America/El_Salvador",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 381,
+            "city_name": "America/Boise",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 383,
+            "city_name": "America/Denver",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 453,
+            "city_name": "America/Shiprock",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 489,
+            "city_name": "Canada/Mountain",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 492,
+            "city_name": "Canada/Saskatchewan",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 495,
+            "city_name": "Chile/EasterIsland",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 507,
+            "city_name": "Mexico/BajaSur",
+            "utc_offset": "-06:00",
+            "jp_time_diff": -900
+        },
+        {
+            "id": 69,
+            "city_name": "America/Eirunepe",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 76,
+            "city_name": "America/Rio_Branco",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 84,
+            "city_name": "America/Atikokan",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 100,
+            "city_name": "America/Rainy_River",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 101,
+            "city_name": "America/Rankin_Inlet",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 103,
+            "city_name": "America/Resolute",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 110,
+            "city_name": "America/Winnipeg",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 126,
+            "city_name": "America/Bogota",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 142,
+            "city_name": "America/Guayaquil",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 201,
+            "city_name": "America/Jamaica",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 215,
+            "city_name": "America/Cayman",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 256,
+            "city_name": "America/Bahia_Banderas",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 257,
+            "city_name": "America/Cancun",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 260,
+            "city_name": "America/Matamoros",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 262,
+            "city_name": "America/Merida",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 263,
+            "city_name": "America/Mexico_City",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 264,
+            "city_name": "America/Monterrey",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 284,
+            "city_name": "America/Panama",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 285,
+            "city_name": "America/Lima",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 382,
+            "city_name": "America/Chicago",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 386,
+            "city_name": "America/Indiana/Knox",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 389,
+            "city_name": "America/Indiana/Tell_City",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 397,
+            "city_name": "America/Menominee",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 401,
+            "city_name": "America/North_Dakota/Beulah",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 402,
+            "city_name": "America/North_Dakota/Center",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 403,
+            "city_name": "America/North_Dakota/New_Salem",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 438,
+            "city_name": "America/Coral_Harbour",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 447,
+            "city_name": "America/Knox_IN",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 450,
+            "city_name": "America/Porto_Acre",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 481,
+            "city_name": "Brazil/Acre",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 486,
+            "city_name": "Canada/Central",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 508,
+            "city_name": "Mexico/General",
+            "utc_offset": "-05:00",
+            "jp_time_diff": -840
+        },
+        {
+            "id": 4,
+            "city_name": "America/Antigua",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 5,
+            "city_name": "America/Anguilla",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 46,
+            "city_name": "America/Aruba",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 50,
+            "city_name": "America/Barbados",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 58,
+            "city_name": "America/St_Barthelemy",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 61,
+            "city_name": "America/La_Paz",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 62,
+            "city_name": "America/Kralendijk",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 66,
+            "city_name": "America/Boa_Vista",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 67,
+            "city_name": "America/Campo_Grande",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 68,
+            "city_name": "America/Cuiaba",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 72,
+            "city_name": "America/Manaus",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 74,
+            "city_name": "America/Porto_Velho",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 79,
+            "city_name": "America/Nassau",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 85,
+            "city_name": "America/Blanc-Sablon",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 96,
+            "city_name": "America/Iqaluit",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 98,
+            "city_name": "America/Nipigon",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 99,
+            "city_name": "America/Pangnirtung",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 106,
+            "city_name": "America/Thunder_Bay",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 107,
+            "city_name": "America/Toronto",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 121,
+            "city_name": "America/Santiago",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 128,
+            "city_name": "America/Havana",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 130,
+            "city_name": "America/Curacao",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 139,
+            "city_name": "America/Dominica",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 140,
+            "city_name": "America/Santo_Domingo",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 162,
+            "city_name": "America/Grenada",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 174,
+            "city_name": "America/Guadeloupe",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 181,
+            "city_name": "America/Guyana",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 185,
+            "city_name": "America/Port-au-Prince",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 211,
+            "city_name": "America/St_Kitts",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 224,
+            "city_name": "America/St_Lucia",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 237,
+            "city_name": "America/Marigot",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 249,
+            "city_name": "America/Martinique",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 251,
+            "city_name": "America/Montserrat",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 296,
+            "city_name": "America/Puerto_Rico",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 303,
+            "city_name": "America/Asuncion",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 354,
+            "city_name": "America/Lower_Princes",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 357,
+            "city_name": "America/Grand_Turk",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 369,
+            "city_name": "America/Port_of_Spain",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 384,
+            "city_name": "America/Detroit",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 385,
+            "city_name": "America/Indiana/Indianapolis",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 387,
+            "city_name": "America/Indiana/Marengo",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 388,
+            "city_name": "America/Indiana/Petersburg",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 390,
+            "city_name": "America/Indiana/Vevay",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 391,
+            "city_name": "America/Indiana/Vincennes",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 392,
+            "city_name": "America/Indiana/Winamac",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 394,
+            "city_name": "America/Kentucky/Louisville",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 395,
+            "city_name": "America/Kentucky/Monticello",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 399,
+            "city_name": "America/New_York",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 412,
+            "city_name": "America/St_Vincent",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 413,
+            "city_name": "America/Caracas",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 414,
+            "city_name": "America/Tortola",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 415,
+            "city_name": "America/St_Thomas",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 426,
+            "city_name": "America/Indianapolis",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 431,
+            "city_name": "America/Montreal",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 445,
+            "city_name": "America/Fort_Wayne",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 448,
+            "city_name": "America/Louisville",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 454,
+            "city_name": "America/Virgin",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 484,
+            "city_name": "Brazil/West",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 488,
+            "city_name": "Canada/Eastern",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 494,
+            "city_name": "Chile/Continental",
+            "utc_offset": "-04:00",
+            "jp_time_diff": -780
+        },
+        {
+            "id": 14,
+            "city_name": "Antarctica/Palmer",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 15,
+            "city_name": "Antarctica/Rothera",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 19,
+            "city_name": "America/Argentina/Buenos_Aires",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 20,
+            "city_name": "America/Argentina/Catamarca",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 21,
+            "city_name": "America/Argentina/Cordoba",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 22,
+            "city_name": "America/Argentina/Jujuy",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 23,
+            "city_name": "America/Argentina/La_Rioja",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 24,
+            "city_name": "America/Argentina/Mendoza",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 25,
+            "city_name": "America/Argentina/Rio_Gallegos",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 26,
+            "city_name": "America/Argentina/Salta",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 27,
+            "city_name": "America/Argentina/San_Juan",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 28,
+            "city_name": "America/Argentina/San_Luis",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 29,
+            "city_name": "America/Argentina/Tucuman",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 30,
+            "city_name": "America/Argentina/Ushuaia",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 59,
+            "city_name": "Atlantic/Bermuda",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 63,
+            "city_name": "America/Araguaina",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 64,
+            "city_name": "America/Bahia",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 65,
+            "city_name": "America/Belem",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 70,
+            "city_name": "America/Fortaleza",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 71,
+            "city_name": "America/Maceio",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 75,
+            "city_name": "America/Recife",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 77,
+            "city_name": "America/Santarem",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 78,
+            "city_name": "America/Sao_Paulo",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 92,
+            "city_name": "America/Glace_Bay",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 93,
+            "city_name": "America/Goose_Bay",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 94,
+            "city_name": "America/Halifax",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 97,
+            "city_name": "America/Moncton",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 120,
+            "city_name": "America/Punta_Arenas",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 154,
+            "city_name": "Atlantic/Stanley",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 164,
+            "city_name": "America/Cayenne",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 171,
+            "city_name": "America/Thule",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 350,
+            "city_name": "America/Paramaribo",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 408,
+            "city_name": "America/Montevideo",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 427,
+            "city_name": "America/Buenos_Aires",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 432,
+            "city_name": "America/Cordoba",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 441,
+            "city_name": "America/Argentina/ComodRivadavia",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 443,
+            "city_name": "America/Catamarca",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 446,
+            "city_name": "America/Jujuy",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 449,
+            "city_name": "America/Mendoza",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 451,
+            "city_name": "America/Rosario",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 483,
+            "city_name": "Brazil/East",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 485,
+            "city_name": "Canada/Atlantic",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 530,
+            "city_name": "Etc/GMT+3",
+            "utc_offset": "-03:00",
+            "jp_time_diff": -720
+        },
+        {
+            "id": 104,
+            "city_name": "America/St_Johns",
+            "utc_offset": "-02:30",
+            "jp_time_diff": -690
+        },
+        {
+            "id": 490,
+            "city_name": "Canada/Newfoundland",
+            "utc_offset": "-02:30",
+            "jp_time_diff": -690
+        },
+        {
+            "id": 73,
+            "city_name": "America/Noronha",
+            "utc_offset": "-02:00",
+            "jp_time_diff": -660
+        },
+        {
+            "id": 169,
+            "city_name": "America/Godthab",
+            "utc_offset": "-02:00",
+            "jp_time_diff": -660
+        },
+        {
+            "id": 177,
+            "city_name": "Atlantic/South_Georgia",
+            "utc_offset": "-02:00",
+            "jp_time_diff": -660
+        },
+        {
+            "id": 294,
+            "city_name": "America/Miquelon",
+            "utc_offset": "-02:00",
+            "jp_time_diff": -660
+        },
+        {
+            "id": 482,
+            "city_name": "Brazil/DeNoronha",
+            "utc_offset": "-02:00",
+            "jp_time_diff": -660
+        },
+        {
+            "id": 527,
+            "city_name": "Etc/GMT+2",
+            "utc_offset": "-02:00",
+            "jp_time_diff": -660
+        },
+        {
+            "id": 129,
+            "city_name": "Atlantic/Cape_Verde",
+            "utc_offset": "-01:00",
+            "jp_time_diff": -600
+        },
+        {
+            "id": 53,
+            "city_name": "Africa/Ouagadougou",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 118,
+            "city_name": "Africa/Abidjan",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 166,
+            "city_name": "Africa/Accra",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 168,
+            "city_name": "America/Danmarkshavn",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 170,
+            "city_name": "America/Scoresbysund",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 172,
+            "city_name": "Africa/Banjul",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 173,
+            "city_name": "Africa/Conakry",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 180,
+            "city_name": "Africa/Bissau",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 198,
+            "city_name": "Atlantic/Reykjavik",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 227,
+            "city_name": "Africa/Monrovia",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 242,
+            "city_name": "Africa/Bamako",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 250,
+            "city_name": "Africa/Nouakchott",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 299,
+            "city_name": "Atlantic/Azores",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 342,
+            "city_name": "Atlantic/St_Helena",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 346,
+            "city_name": "Africa/Freetown",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 348,
+            "city_name": "Africa/Dakar",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 352,
+            "city_name": "Africa/Sao_Tome",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 360,
+            "city_name": "Africa/Lome",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 440,
+            "city_name": "Africa/Timbuktu",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 496,
+            "city_name": "Etc/GMT",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 497,
+            "city_name": "Etc/Greenwich",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 498,
+            "city_name": "Etc/UCT",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 499,
+            "city_name": "Etc/UTC",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 500,
+            "city_name": "Etc/Universal",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 501,
+            "city_name": "Etc/Zulu",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 518,
+            "city_name": "UTC",
+            "utc_offset": "+00:00",
+            "jp_time_diff": -540
+        },
+        {
+            "id": 8,
+            "city_name": "Africa/Luanda",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 57,
+            "city_name": "Africa/Porto-Novo",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 113,
+            "city_name": "Africa/Kinshasa",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 115,
+            "city_name": "Africa/Bangui",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 116,
+            "city_name": "Africa/Brazzaville",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 123,
+            "city_name": "Africa/Douala",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 141,
+            "city_name": "Africa/Algiers",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 146,
+            "city_name": "Africa/El_Aaiun",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 149,
+            "city_name": "Atlantic/Canary",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 158,
+            "city_name": "Atlantic/Faroe",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 160,
+            "city_name": "Africa/Libreville",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 161,
+            "city_name": "Europe/London",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 165,
+            "city_name": "Europe/Guernsey",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 175,
+            "city_name": "Africa/Malabo",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 191,
+            "city_name": "Europe/Dublin",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 193,
+            "city_name": "Europe/Isle_of_Man",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 200,
+            "city_name": "Europe/Jersey",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 233,
+            "city_name": "Africa/Casablanca",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 272,
+            "city_name": "Africa/Niamey",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 274,
+            "city_name": "Africa/Lagos",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 300,
+            "city_name": "Atlantic/Madeira",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 301,
+            "city_name": "Europe/Lisbon",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 358,
+            "city_name": "Africa/Ndjamena",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 366,
+            "city_name": "Africa/Tunis",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 468,
+            "city_name": "Atlantic/Faeroe",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 502,
+            "city_name": "Europe/Belfast",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 505,
+            "city_name": "GB",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 524,
+            "city_name": "Etc/GMT-1",
+            "utc_offset": "+01:00",
+            "jp_time_diff": -480
+        },
+        {
+            "id": 1,
+            "city_name": "Europe/Andorra",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 6,
+            "city_name": "Europe/Tirane",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 17,
+            "city_name": "Antarctica/Troll",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 32,
+            "city_name": "Europe/Vienna",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 49,
+            "city_name": "Europe/Sarajevo",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 52,
+            "city_name": "Europe/Brussels",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 56,
+            "city_name": "Africa/Bujumbura",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 81,
+            "city_name": "Africa/Gaborone",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 114,
+            "city_name": "Africa/Lubumbashi",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 117,
+            "city_name": "Europe/Zurich",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 134,
+            "city_name": "Europe/Prague",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 135,
+            "city_name": "Europe/Berlin",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 136,
+            "city_name": "Europe/Busingen",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 138,
+            "city_name": "Europe/Copenhagen",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 145,
+            "city_name": "Africa/Cairo",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 148,
+            "city_name": "Africa/Ceuta",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 150,
+            "city_name": "Europe/Madrid",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 159,
+            "city_name": "Europe/Paris",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 167,
+            "city_name": "Europe/Gibraltar",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 184,
+            "city_name": "Europe/Zagreb",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 186,
+            "city_name": "Europe/Budapest",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 199,
+            "city_name": "Europe/Rome",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 225,
+            "city_name": "Europe/Vaduz",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 228,
+            "city_name": "Africa/Maseru",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 230,
+            "city_name": "Europe/Luxembourg",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 232,
+            "city_name": "Africa/Tripoli",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 234,
+            "city_name": "Europe/Monaco",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 236,
+            "city_name": "Europe/Podgorica",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 241,
+            "city_name": "Europe/Skopje",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 252,
+            "city_name": "Europe/Malta",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 255,
+            "city_name": "Africa/Blantyre",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 269,
+            "city_name": "Africa/Maputo",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 270,
+            "city_name": "Africa/Windhoek",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 276,
+            "city_name": "Europe/Amsterdam",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 277,
+            "city_name": "Europe/Oslo",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 293,
+            "city_name": "Europe/Warsaw",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 307,
+            "city_name": "Europe/Belgrade",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 327,
+            "city_name": "Europe/Kaliningrad",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 335,
+            "city_name": "Africa/Kigali",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 339,
+            "city_name": "Africa/Khartoum",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 340,
+            "city_name": "Europe/Stockholm",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 343,
+            "city_name": "Europe/Ljubljana",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 344,
+            "city_name": "Arctic/Longyearbyen",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 345,
+            "city_name": "Europe/Bratislava",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 347,
+            "city_name": "Europe/San_Marino",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 356,
+            "city_name": "Africa/Mbabane",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 411,
+            "city_name": "Europe/Vatican",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 422,
+            "city_name": "Africa/Johannesburg",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 423,
+            "city_name": "Africa/Lusaka",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 424,
+            "city_name": "Africa/Harare",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 469,
+            "city_name": "Atlantic/Jan_Mayen",
+            "utc_offset": "+02:00",
+            "jp_time_diff": -420
+        },
+        {
+            "id": 16,
+            "city_name": "Antarctica/Syowa",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 47,
+            "city_name": "Europe/Mariehamn",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 54,
+            "city_name": "Europe/Sofia",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 55,
+            "city_name": "Asia/Bahrain",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 82,
+            "city_name": "Europe/Minsk",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 132,
+            "city_name": "Asia/Famagusta",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 133,
+            "city_name": "Asia/Nicosia",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 137,
+            "city_name": "Africa/Djibouti",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 144,
+            "city_name": "Europe/Tallinn",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 147,
+            "city_name": "Africa/Asmara",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 151,
+            "city_name": "Africa/Addis_Ababa",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 152,
+            "city_name": "Europe/Helsinki",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 176,
+            "city_name": "Europe/Athens",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 192,
+            "city_name": "Asia/Jerusalem",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 196,
+            "city_name": "Asia/Baghdad",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 202,
+            "city_name": "Asia/Amman",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 204,
+            "city_name": "Africa/Nairobi",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 210,
+            "city_name": "Indian/Comoro",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 214,
+            "city_name": "Asia/Kuwait",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 223,
+            "city_name": "Asia/Beirut",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 229,
+            "city_name": "Europe/Vilnius",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 231,
+            "city_name": "Europe/Riga",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 235,
+            "city_name": "Europe/Chisinau",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 238,
+            "city_name": "Indian/Antananarivo",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 297,
+            "city_name": "Asia/Gaza",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 298,
+            "city_name": "Asia/Hebron",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 304,
+            "city_name": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 306,
+            "city_name": "Europe/Bucharest",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 328,
+            "city_name": "Europe/Kirov",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 329,
+            "city_name": "Europe/Moscow",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 332,
+            "city_name": "Europe/Simferopol",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 336,
+            "city_name": "Asia/Riyadh",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 349,
+            "city_name": "Africa/Mogadishu",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 351,
+            "city_name": "Africa/Juba",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 355,
+            "city_name": "Asia/Damascus",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 368,
+            "city_name": "Europe/Istanbul",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 372,
+            "city_name": "Africa/Dar_es_Salaam",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 373,
+            "city_name": "Europe/Kiev",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 374,
+            "city_name": "Europe/Uzhgorod",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 375,
+            "city_name": "Europe/Zaporozhye",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 376,
+            "city_name": "Africa/Kampala",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 420,
+            "city_name": "Asia/Aden",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 421,
+            "city_name": "Indian/Mayotte",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 439,
+            "city_name": "Africa/Asmera",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 461,
+            "city_name": "Asia/Istanbul",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 464,
+            "city_name": "Asia/Tel_Aviv",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 503,
+            "city_name": "Europe/Nicosia",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 504,
+            "city_name": "Europe/Tiraspol",
+            "utc_offset": "+03:00",
+            "jp_time_diff": -360
+        },
+        {
+            "id": 2,
+            "city_name": "Asia/Dubai",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 7,
+            "city_name": "Asia/Yerevan",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 48,
+            "city_name": "Asia/Baku",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 163,
+            "city_name": "Asia/Tbilisi",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 253,
+            "city_name": "Indian/Mauritius",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 283,
+            "city_name": "Asia/Muscat",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 305,
+            "city_name": "Indian/Reunion",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 326,
+            "city_name": "Europe/Astrakhan",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 330,
+            "city_name": "Europe/Samara",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 331,
+            "city_name": "Europe/Saratov",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 333,
+            "city_name": "Europe/Ulyanovsk",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 334,
+            "city_name": "Europe/Volgograd",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 338,
+            "city_name": "Indian/Mahe",
+            "utc_offset": "+04:00",
+            "jp_time_diff": -300
+        },
+        {
+            "id": 3,
+            "city_name": "Asia/Kabul",
+            "utc_offset": "+04:30",
+            "jp_time_diff": -270
+        },
+        {
+            "id": 197,
+            "city_name": "Asia/Tehran",
+            "utc_offset": "+04:30",
+            "jp_time_diff": -270
+        },
+        {
+            "id": 12,
+            "city_name": "Antarctica/Mawson",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 217,
+            "city_name": "Asia/Aqtau",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 218,
+            "city_name": "Asia/Aqtobe",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 219,
+            "city_name": "Asia/Atyrau",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 220,
+            "city_name": "Asia/Oral",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 221,
+            "city_name": "Asia/Qyzylorda",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 254,
+            "city_name": "Indian/Maldives",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 292,
+            "city_name": "Asia/Karachi",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 325,
+            "city_name": "Asia/Yekaterinburg",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 359,
+            "city_name": "Indian/Kerguelen",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 362,
+            "city_name": "Asia/Dushanbe",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 365,
+            "city_name": "Asia/Ashgabat",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 409,
+            "city_name": "Asia/Samarkand",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 410,
+            "city_name": "Asia/Tashkent",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 456,
+            "city_name": "Asia/Ashkhabad",
+            "utc_offset": "+05:00",
+            "jp_time_diff": -240
+        },
+        {
+            "id": 194,
+            "city_name": "Asia/Kolkata",
+            "utc_offset": "+05:30",
+            "jp_time_diff": -210
+        },
+        {
+            "id": 226,
+            "city_name": "Asia/Colombo",
+            "utc_offset": "+05:30",
+            "jp_time_diff": -210
+        },
+        {
+            "id": 428,
+            "city_name": "Asia/Calcutta",
+            "utc_offset": "+05:30",
+            "jp_time_diff": -210
+        },
+        {
+            "id": 278,
+            "city_name": "Asia/Kathmandu",
+            "utc_offset": "+05:45",
+            "jp_time_diff": -195
+        },
+        {
+            "id": 435,
+            "city_name": "Asia/Katmandu",
+            "utc_offset": "+05:45",
+            "jp_time_diff": -195
+        },
+        {
+            "id": 18,
+            "city_name": "Antarctica/Vostok",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 51,
+            "city_name": "Asia/Dhaka",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 80,
+            "city_name": "Asia/Thimphu",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 125,
+            "city_name": "Asia/Urumqi",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 195,
+            "city_name": "Indian/Chagos",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 205,
+            "city_name": "Asia/Bishkek",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 216,
+            "city_name": "Asia/Almaty",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 318,
+            "city_name": "Asia/Omsk",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 459,
+            "city_name": "Asia/Dacca",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 462,
+            "city_name": "Asia/Kashgar",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 465,
+            "city_name": "Asia/Thimbu",
+            "utc_offset": "+06:00",
+            "jp_time_diff": -180
+        },
+        {
+            "id": 112,
+            "city_name": "Indian/Cocos",
+            "utc_offset": "+06:30",
+            "jp_time_diff": -150
+        },
+        {
+            "id": 243,
+            "city_name": "Asia/Yangon",
+            "utc_offset": "+06:30",
+            "jp_time_diff": -150
+        },
+        {
+            "id": 430,
+            "city_name": "Asia/Rangoon",
+            "utc_offset": "+06:30",
+            "jp_time_diff": -150
+        },
+        {
+            "id": 10,
+            "city_name": "Antarctica/Davis",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 131,
+            "city_name": "Indian/Christmas",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 187,
+            "city_name": "Asia/Jakarta",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 190,
+            "city_name": "Asia/Pontianak",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 206,
+            "city_name": "Asia/Phnom_Penh",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 222,
+            "city_name": "Asia/Vientiane",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 245,
+            "city_name": "Asia/Hovd",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 309,
+            "city_name": "Asia/Barnaul",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 314,
+            "city_name": "Asia/Krasnoyarsk",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 316,
+            "city_name": "Asia/Novokuznetsk",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 317,
+            "city_name": "Asia/Novosibirsk",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 321,
+            "city_name": "Asia/Tomsk",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 361,
+            "city_name": "Asia/Bangkok",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 416,
+            "city_name": "Asia/Ho_Chi_Minh",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 425,
+            "city_name": "Asia/Saigon",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 529,
+            "city_name": "Etc/GMT-7",
+            "utc_offset": "+07:00",
+            "jp_time_diff": -120
+        },
+        {
+            "id": 9,
+            "city_name": "Antarctica/Casey",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 44,
+            "city_name": "Australia/Perth",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 60,
+            "city_name": "Asia/Brunei",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 124,
+            "city_name": "Asia/Shanghai",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 182,
+            "city_name": "Asia/Hong_Kong",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 189,
+            "city_name": "Asia/Makassar",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 244,
+            "city_name": "Asia/Choibalsan",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 246,
+            "city_name": "Asia/Ulaanbaatar",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 247,
+            "city_name": "Asia/Macau",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 267,
+            "city_name": "Asia/Kuala_Lumpur",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 268,
+            "city_name": "Asia/Kuching",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 291,
+            "city_name": "Asia/Manila",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 311,
+            "city_name": "Asia/Irkutsk",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 341,
+            "city_name": "Asia/Singapore",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 371,
+            "city_name": "Asia/Taipei",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 433,
+            "city_name": "Asia/Manila",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 434,
+            "city_name": "Asia/Shanghai",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 457,
+            "city_name": "Asia/Chongqing",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 458,
+            "city_name": "Asia/Chungking",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 460,
+            "city_name": "Asia/Harbin",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 463,
+            "city_name": "Asia/Macao",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 466,
+            "city_name": "Asia/Ujung_Pandang",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 467,
+            "city_name": "Asia/Ulan_Bator",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 479,
+            "city_name": "Australia/West",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 510,
+            "city_name": "PRC",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 516,
+            "city_name": "ROC",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 525,
+            "city_name": "Etc/GMT-8",
+            "utc_offset": "+08:00",
+            "jp_time_diff": -60
+        },
+        {
+            "id": 39,
+            "city_name": "Australia/Eucla",
+            "utc_offset": "+08:45",
+            "jp_time_diff": -15
+        },
+        {
+            "id": 188,
+            "city_name": "Asia/Jayapura",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 203,
+            "city_name": "Asia/Tokyo",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 212,
+            "city_name": "Asia/Pyongyang",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 213,
+            "city_name": "Asia/Seoul",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 302,
+            "city_name": "Pacific/Palau",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 310,
+            "city_name": "Asia/Chita",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 313,
+            "city_name": "Asia/Khandyga",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 324,
+            "city_name": "Asia/Yakutsk",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 364,
+            "city_name": "Asia/Dili",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 517,
+            "city_name": "ROK",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 523,
+            "city_name": "Etc/GMT-9",
+            "utc_offset": "+09:00",
+            "jp_time_diff": 0
+        },
+        {
+            "id": 34,
+            "city_name": "Australia/Adelaide",
+            "utc_offset": "+09:30",
+            "jp_time_diff": 30
+        },
+        {
+            "id": 36,
+            "city_name": "Australia/Broken_Hill",
+            "utc_offset": "+09:30",
+            "jp_time_diff": 30
+        },
+        {
+            "id": 38,
+            "city_name": "Australia/Darwin",
+            "utc_offset": "+09:30",
+            "jp_time_diff": 30
+        },
+        {
+            "id": 474,
+            "city_name": "Australia/North",
+            "utc_offset": "+09:30",
+            "jp_time_diff": 30
+        },
+        {
+            "id": 476,
+            "city_name": "Australia/South",
+            "utc_offset": "+09:30",
+            "jp_time_diff": 30
+        },
+        {
+            "id": 480,
+            "city_name": "Australia/Yancowinna",
+            "utc_offset": "+09:30",
+            "jp_time_diff": 30
+        },
+        {
+            "id": 11,
+            "city_name": "Antarctica/DumontDUrville",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 35,
+            "city_name": "Australia/Brisbane",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 37,
+            "city_name": "Australia/Currie",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 40,
+            "city_name": "Australia/Hobart",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 41,
+            "city_name": "Australia/Lindeman",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 43,
+            "city_name": "Australia/Melbourne",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 45,
+            "city_name": "Australia/Sydney",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 155,
+            "city_name": "Pacific/Chuuk",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 179,
+            "city_name": "Pacific/Guam",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 248,
+            "city_name": "Pacific/Saipan",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 290,
+            "city_name": "Pacific/Port_Moresby",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 322,
+            "city_name": "Asia/Ust-Nera",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 323,
+            "city_name": "Asia/Vladivostok",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 470,
+            "city_name": "Australia/ACT",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 471,
+            "city_name": "Australia/Canberra",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 473,
+            "city_name": "Australia/NSW",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 475,
+            "city_name": "Australia/Queensland",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 477,
+            "city_name": "Australia/Tasmania",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 478,
+            "city_name": "Australia/Victoria",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 514,
+            "city_name": "Pacific/Truk",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 515,
+            "city_name": "Pacific/Yap",
+            "utc_offset": "+10:00",
+            "jp_time_diff": 60
+        },
+        {
+            "id": 42,
+            "city_name": "Australia/Lord_Howe",
+            "utc_offset": "+10:30",
+            "jp_time_diff": 90
+        },
+        {
+            "id": 472,
+            "city_name": "Australia/LHI",
+            "utc_offset": "+10:30",
+            "jp_time_diff": 90
+        },
+        {
+            "id": 33,
+            "city_name": "Antarctica/Macquarie",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 156,
+            "city_name": "Pacific/Kosrae",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 157,
+            "city_name": "Pacific/Pohnpei",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 271,
+            "city_name": "Pacific/Noumea",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 273,
+            "city_name": "Pacific/Norfolk",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 289,
+            "city_name": "Pacific/Bougainville",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 315,
+            "city_name": "Asia/Magadan",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 319,
+            "city_name": "Asia/Sakhalin",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 320,
+            "city_name": "Asia/Srednekolymsk",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 337,
+            "city_name": "Pacific/Guadalcanal",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 417,
+            "city_name": "Pacific/Efate",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 512,
+            "city_name": "Pacific/Ponape",
+            "utc_offset": "+11:00",
+            "jp_time_diff": 120
+        },
+        {
+            "id": 13,
+            "city_name": "Antarctica/McMurdo",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 153,
+            "city_name": "Pacific/Fiji",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 209,
+            "city_name": "Pacific/Tarawa",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 239,
+            "city_name": "Pacific/Kwajalein",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 240,
+            "city_name": "Pacific/Majuro",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 279,
+            "city_name": "Pacific/Nauru",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 281,
+            "city_name": "Pacific/Auckland",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 308,
+            "city_name": "Asia/Anadyr",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 312,
+            "city_name": "Asia/Kamchatka",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 370,
+            "city_name": "Pacific/Funafuti",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 378,
+            "city_name": "Pacific/Wake",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 418,
+            "city_name": "Pacific/Wallis",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 455,
+            "city_name": "Antarctica/South_Pole",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 509,
+            "city_name": "NZ",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 526,
+            "city_name": "Etc/GMT-12",
+            "utc_offset": "+12:00",
+            "jp_time_diff": 180
+        },
+        {
+            "id": 282,
+            "city_name": "Pacific/Chatham",
+            "utc_offset": "+12:45",
+            "jp_time_diff": 225
+        },
+        {
+            "id": 207,
+            "city_name": "Pacific/Enderbury",
+            "utc_offset": "+13:00",
+            "jp_time_diff": 240
+        },
+        {
+            "id": 363,
+            "city_name": "Pacific/Fakaofo",
+            "utc_offset": "+13:00",
+            "jp_time_diff": 240
+        },
+        {
+            "id": 367,
+            "city_name": "Pacific/Tongatapu",
+            "utc_offset": "+13:00",
+            "jp_time_diff": 240
+        },
+        {
+            "id": 419,
+            "city_name": "Pacific/Apia",
+            "utc_offset": "+13:00",
+            "jp_time_diff": 240
+        },
+        {
+            "id": 528,
+            "city_name": "Etc/GMT-13",
+            "utc_offset": "+13:00",
+            "jp_time_diff": 240
+        },
+        {
+            "id": 208,
+            "city_name": "Pacific/Kiritimati",
+            "utc_offset": "+14:00",
+            "jp_time_diff": 300
+        }
+    ],
+    "current_jp_time": "2020-09-05 12:41:42"
+}
